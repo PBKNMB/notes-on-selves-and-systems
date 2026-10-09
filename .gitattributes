@@ -1,0 +1,2 @@
+# 一律不做 EOL 转换：原样保留作者写下的字节（本项目全局 core.autocrlf=true）。
+* -text
